@@ -29,4 +29,17 @@
 <br />
 <br />
 <h4>5.第四頁：結果頁。</h4><br />
+站上體重計厚量測完的素質會顯示在這頁(影片會有說明)。<br />
 
+![image](https://github.com/BorteauX/-UI-/blob/master/%E8%9E%A2%E5%B9%95%E5%BF%AB%E7%85%A7%202017-08-21%20%E4%B8%8A%E5%8D%887.23.43.png?raw=true)
+
+<h3>既然說UI設計了，版面當然一定要符合各個蘋果裝置尺寸啦～</h3><br />
+這是目前蘋果裝置螢幕尺寸最大的 Ipad Pro 12.9 inch 所呈現的版面。<br />
+
+![image](https://github.com/BorteauX/-UI-/blob/master/%E8%9E%A2%E5%B9%95%E5%BF%AB%E7%85%A7%202017-08-21%20%E4%B8%8A%E5%8D%887.33.36.png?raw=true)
+
+![image](https://github.com/BorteauX/-UI-/blob/master/%E8%9E%A2%E5%B9%95%E5%BF%AB%E7%85%A7%202017-08-21%20%E4%B8%8A%E5%8D%887.34.00.png?raw=true)
+
+![image](https://github.com/BorteauX/-UI-/blob/master/%E8%9E%A2%E5%B9%95%E5%BF%AB%E7%85%A7%202017-08-21%20%E4%B8%8A%E5%8D%888.55.12.png?raw=true)
+
+![image](https://github.com/BorteauX/-UI-/blob/master/%E8%9E%A2%E5%B9%95%E5%BF%AB%E7%85%A7%202017-08-21%20%E4%B8%8A%E5%8D%887.36.09.png?raw=true)
