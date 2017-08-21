@@ -14,7 +14,7 @@
 ![image](https://github.com/BorteauX/-UI-/blob/master/%E8%9E%A2%E5%B9%95%E5%BF%AB%E7%85%A7%202017-08-21%20%E4%B8%8A%E5%8D%887.02.42.png?raw=true)
 <br />
 <br />
-<h4>3.第二頁：選擇藍牙裝置</h4>。<br />
+<h4>3.第二頁：選擇藍牙裝置。</h4><br />
 如果偵測到體重計的藍芽訊號，藍牙名稱會顯示在TableView裡供使用者點選。<br />
 
 ![image](https://github.com/BorteauX/-UI-/blob/master/%E8%9E%A2%E5%B9%95%E5%BF%AB%E7%85%A7%202017-08-21%20%E4%B8%8A%E5%8D%887.12.39.png?raw=true)
