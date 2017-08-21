@@ -43,3 +43,10 @@
 ![image](https://github.com/BorteauX/-UI-/blob/master/%E8%9E%A2%E5%B9%95%E5%BF%AB%E7%85%A7%202017-08-21%20%E4%B8%8A%E5%8D%888.55.12.png?raw=true)
 
 ![image](https://github.com/BorteauX/-UI-/blob/master/%E8%9E%A2%E5%B9%95%E5%BF%AB%E7%85%A7%202017-08-21%20%E4%B8%8A%E5%8D%887.36.09.png?raw=true)
+
+<br />
+<h4>用Trait Variations 方法來調整文字在不同尺寸裝置上版面呈現的樣子。(一開始學不知道有這功能，還用程式碼控制)
+
+![image](https://github.com/BorteauX/-UI-/blob/master/%E8%9E%A2%E5%B9%95%E5%BF%AB%E7%85%A7%202017-08-21%20%E4%B8%8A%E5%8D%887.37.02.png?raw=true)
+![image](https://github.com/BorteauX/-UI-/blob/master/%E8%9E%A2%E5%B9%95%E5%BF%AB%E7%85%A7%202017-08-21%20%E4%B8%8A%E5%8D%887.37.19.png?raw=true)
+
