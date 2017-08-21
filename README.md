@@ -9,9 +9,10 @@
 <br />
 <br />
 <h4>2.首頁：帳號密碼的部分以及訪客登入。</h4><br />
-（廠商要求登入與註冊按鈕要在同一顆)<br />
+（廠商要求登入與註冊按鈕要在同一顆)。如果都沒輸入帳號密碼會有警告視窗跳出提醒使用者。<br />
 
 ![image](https://github.com/BorteauX/-UI-/blob/master/%E8%9E%A2%E5%B9%95%E5%BF%AB%E7%85%A7%202017-08-21%20%E4%B8%8A%E5%8D%887.02.42.png?raw=true)
+![image](https://github.com/BorteauX/-UI-/blob/master/%E8%9E%A2%E5%B9%95%E5%BF%AB%E7%85%A7%202017-08-21%20%E4%B8%8A%E5%8D%888.35.31.png?raw=true)
 <br />
 <br />
 <h4>3.第二頁：選擇藍牙裝置。</h4><br />
@@ -24,6 +25,7 @@
 輸入身高等基本資料，以便體重計換算身體素質。這裡若沒輸入身高或是偵測不到藍牙連接是會跳出Alert視窗的呦！<br />
 
 ![image](https://github.com/BorteauX/-UI-/blob/master/%E8%9E%A2%E5%B9%95%E5%BF%AB%E7%85%A7%202017-08-21%20%E4%B8%8A%E5%8D%887.17.18.png?raw=true)
+![image](https://github.com/BorteauX/-UI-/blob/master/%E8%9E%A2%E5%B9%95%E5%BF%AB%E7%85%A7%202017-08-21%20%E4%B8%8A%E5%8D%888.39.37.png?raw=true)
 <br />
 <br />
 <h4>5.第四頁：結果頁。</h4><br />
