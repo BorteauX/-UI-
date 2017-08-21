@@ -50,3 +50,5 @@
 ![image](https://github.com/BorteauX/-UI-/blob/master/%E8%9E%A2%E5%B9%95%E5%BF%AB%E7%85%A7%202017-08-21%20%E4%B8%8A%E5%8D%887.37.02.png?raw=true)
 ![image](https://github.com/BorteauX/-UI-/blob/master/%E8%9E%A2%E5%B9%95%E5%BF%AB%E7%85%A7%202017-08-21%20%E4%B8%8A%E5%8D%887.37.19.png?raw=true)
 
+<br />
+<a href="https://drive.google.com/open?id=0B8FicQH2PQi9RUpyd3l6TDYwZE0">藍芽體重計展示影片</a>
