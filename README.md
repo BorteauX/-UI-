@@ -5,7 +5,7 @@
 </br>
 </br>
 1.這是在Xcode裡全頁展示：</br>
-</br>
+
 ![image](https://github.com/BorteauX/-UI-/blob/master/%E8%9E%A2%E5%B9%95%E5%BF%AB%E7%85%A7%202017-08-21%20%E4%B8%8A%E5%8D%886.49.17.png?raw=true)
 </br>
 </br>
